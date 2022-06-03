@@ -1,0 +1,9 @@
+Survived,Pclass,Name,Sex,Age,Siblings/Spouses Aboard,Parents/Children Aboard,Fare,sex
+,1,shung,female,14,0,0,17,1
+,2,Julian ,male,25,0,0,77,0
+,1,Adil,male,35,0,0,50,0
+,1,Das,female,22,0,0,149,1
+,2,Scotty ,male,21,0,0,35,0
+,1,Yuri,male,22,,,25,0
+,3,Sayeh,female,39,,,40,1
+,3,Saloni,female,39,,,25,1
